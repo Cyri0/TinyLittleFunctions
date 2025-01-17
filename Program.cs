@@ -1,8 +1,6 @@
 ﻿namespace TinyLittleFunctions
 {
-
-
-    internal class Program
+    public static class Program
     {
         public static string CheckPasswordStrength(string password)
         {
